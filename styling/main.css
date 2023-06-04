@@ -582,7 +582,7 @@ body{
     } 
     .box-con{
         width: 200px;
-        right: 30px;
+        left: 30px;
     }
     .describe2{
         margin-bottom: 30px;
