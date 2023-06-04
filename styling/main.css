@@ -541,10 +541,10 @@ body{
 
 @media screen and (max-width: 320px) {
     .img{
-        width: 200px;
+        width: 170px;
     } 
     .box{
-        width: 200px;
+        width: 170px;
         left: 55%;
     }
     .describe{
