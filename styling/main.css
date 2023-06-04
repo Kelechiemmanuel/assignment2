@@ -543,6 +543,14 @@ body{
     .img{
         width: 170px;
     } 
+    .line{
+        width: 50px;
+        
+    }
+    .line2{
+        width: 50px;
+
+    }
     .box{
         width: 170px;
         left: 55%;
