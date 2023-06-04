@@ -633,6 +633,9 @@ body{
     .footer-logo{
         display: none;
     }
+    .img-con2{
+        margin-right: 20px;
+    }
 
 
 }
