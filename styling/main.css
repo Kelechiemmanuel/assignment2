@@ -541,11 +541,11 @@ body{
 
 @media screen and (max-width: 320px) {
     .img{
-        width: 150px;
+        width: 200px;
     } 
     .box{
-        width: 150px;
-        left: 35%;
+        width: 200px;
+        left: 45%;
     }
     .describe{
         margin-bottom: 30px;
