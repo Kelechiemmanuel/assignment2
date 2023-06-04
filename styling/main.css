@@ -622,6 +622,9 @@ body{
         display: flex;
         flex-direction: column;
     }
+    .footer-all{
+        margin-top: 20px;
+    }
     .sitemap{
         margin-right: auto;
     }
