@@ -610,7 +610,7 @@ body{
     .graduate-all{
         display: block;
         height: 100%;
-        width: 300px;
+        width: 400px;
         padding: 10px 30px;
         flex-direction: column;
     }
