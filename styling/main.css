@@ -461,7 +461,7 @@ body{
 
 
 }
-@media screen and (max-width: 1020px) {
+@media screen and (min-width: 1020px) {
     .img{
         width: 200px;
     } 
