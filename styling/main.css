@@ -551,7 +551,8 @@ body{
         margin-bottom: 30px;
     }
     .description{
-        margin-left: 20px;
+        margin-left: 40px;
+        width: 300px;
     }
     .title{
         margin-left: 10px;
