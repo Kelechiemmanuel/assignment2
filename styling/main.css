@@ -543,14 +543,6 @@ body{
     .img{
         width: 200px;
     } 
-    /* .line{
-        width: 50px;
-        
-    }
-    .line2{
-        width: 50px;
-
-    } */
     .box{
         width: 200px;
         left: 50px;
@@ -590,7 +582,7 @@ body{
     } 
     .box-con{
         width: 200px;
-        left: 22%;
+        left: 50px;
     }
     .describe2{
         margin-bottom: 30px;
