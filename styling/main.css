@@ -575,8 +575,8 @@ body{
         width: 240px;
     }
     .tester{
-        width: 350px;
-        margin-right: 70px;
+        width: 330px;
+        /* margin-right: 70px; */
     }
     .img4{
         width: 200px;
