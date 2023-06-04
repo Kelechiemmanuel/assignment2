@@ -551,11 +551,11 @@ body{
         margin-bottom: 30px;
     }
     .description{
-        margin-left: 40px;
+        margin-left: 30px;
         width: 230px;
     }
     .title{
-        margin-left: 40px;
+        margin-left: 30px;
         text-align: left;
         width: 70%;
     }
@@ -575,7 +575,7 @@ body{
         width: 240px;
     }
     .tester{
-        width: 250px;
+        width: 260px;
     }
     .img4{
         width: 200px;
