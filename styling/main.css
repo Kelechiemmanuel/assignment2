@@ -559,6 +559,9 @@ body{
         text-align: left;
         width: 85%;
     }
+    .section-feature{
+        margin-bottom: 50px;
+    }
     .btr{
         text-align: center;
     }
